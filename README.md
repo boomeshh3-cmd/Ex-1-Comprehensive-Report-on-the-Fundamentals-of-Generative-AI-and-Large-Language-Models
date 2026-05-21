@@ -64,6 +64,5 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 
 
 Output:
-
-
+file:///C:/Users/acer/OneDrive/Desktop/GenAI_Report_Boomesh.pdf
 Result:
